@@ -1,6 +1,6 @@
 {
     "name": "fpicosm/rapid-api-nba",
-    "description": "Wrapper for RapidAPI NBA project",
+    "description": "Wrapper for API-NBA project",
     "type": "project",
     "license": "MIT",
     "autoload": {
